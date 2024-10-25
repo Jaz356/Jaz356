@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Joziah 
 - 👀 I’m interested in coding and learning how to digitly program
 - 🌱 I’m currently learning to code and do cloud software
-- 💞️ I’m looking to collaborate on projects with amazon and somos F5
 - 📫 How to reach me - email: joziahwalters70@gmail.com
 - 😄 Pronouns: He/him
 
