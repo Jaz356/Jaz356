@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Joziah 
+- 👋 Hi, I’m Jaz
 - 👀 I’m interested in coding and learning how to digitly program
 - 🌱 I’m currently learning to code and do cloud software
 - 📫 How to reach me - email: joziahwalters70@gmail.com
