@@ -48,4 +48,9 @@
 
 <img align="right" height="150" src="https://img.asmedia.epimg.net/resizer/v2/FJ54C73VRJMUZCAXXU7B6RKYNM.jpg?auth=a653163568169f55533323fbe5d5e02e8bf7afbca945209e58757f8556c791e4&width=1472&height=828&smart=true"  />
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jaz356&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jaz356&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
 ###
